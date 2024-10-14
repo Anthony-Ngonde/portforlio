@@ -21,28 +21,25 @@ const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
   {
-    name: 'Project 1',
-    description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+    name: 'Group Project - Anime App',
+    description: `Built and deployed a React-based web application with API integration for fetching anime data. Collaborated with a team to ensure responsive design and smooth performance across platforms.`,
+    stack: ['React', 'JavaScript', 'API'],
+    sourceCode: 'https://github.com/Anthony-Ngonde/anime-app', // Replace with actual GitHub URL if available
+    livePreview: 'https://anime-app-plum.vercel.app/',
   },
   {
-    name: 'Project 2',
-    description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+    name: 'Solo Project – Ecommerce Website',
+    description: `Developed a web application for an e-commerce platform aimed at enhancing the user experience for online shopping. Integrated responsive design and optimized product display for seamless navigation across devices. Collaborated with a team to implement features like product search, filtering, and a shopping cart system.`,
+    stack: ['React', 'JavaScript', 'CSS'],
+    sourceCode: 'https://github.com/Anthony-Ngonde/opticart-frontend', // Replace with actual GitHub URL if available
+    livePreview: 'https://opticart-frontend.vercel.app/',
   },
   {
-    name: 'Project 3',
-    description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+    name: 'Solo Project – Gym Website',
+    description: `Developed a fully responsive gym website aimed at promoting fitness services and workout programs. Implemented features such as a class schedule, membership plans, and a contact form ensuring smooth navigation and an engaging user experience.`,
+    stack: ['HTML', 'CSS', 'JavaScript'],
+    sourceCode: 'https://github.com/Anthony-Ngonde/Phase-1-Project', // Replace with actual GitHub URL if available
+    livePreview: 'https://anthony-ngonde.github.io/Phase-1-Project/',
   },
 ]
 
@@ -52,15 +49,10 @@ const skills = [
   'HTML',
   'CSS',
   'JavaScript',
-  'TypeScript',
-  'React',
-  'Redux',
-  'SASS',
-  'Material UI',
+  'ReactJs',
   'Git',
-  'CI/CD',
-  'Jest',
-  'Enzyme',
+  'Python',
+  'Flask'
 ]
 
 const contact = {
