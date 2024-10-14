@@ -6,14 +6,14 @@ const header = {
 
 const about = {
   // all the properties are optional - can be left empty or deleted
-  name: 'John Smith',
-  role: 'Front End Engineer',
+  name: 'Anthony Ngonde.',
+  role: 'Full-stack Developer',
   description:
-    'Adipisicing sit fugit ullam unde aliquid sequi Facilis soluta facilis perspiciatis corporis nulla aspernatur. Autem eligendi rerum delectus modi quisquam? Illo ut quasi nemo ipsa cumque perspiciatis! Maiores minima consectetur.',
-  resume: 'https://example.com',
+    'I specialize in crafting dynamic, user-friendly web applications by combining elegant front-end interfaces with robust back-end functionality. With experience in React, Node.js, and Flask, I build seamless experiences that focus on performance, scalability, and modern design. My goal is to create intuitive solutions that not only meet user needs but also push the boundaries of technology.',
+  resume: 'https://drive.google.com/file/d/1vhYBD5-bP0Lwu2WWv5Ak8kNdZAGjiaoM/view?usp=drive_link',
   social: {
-    linkedin: 'https://linkedin.com',
-    github: 'https://github.com',
+    linkedin: 'https://www.linkedin.com/in/anthony-ngonde-a06442290/',
+    github: 'https://github.com/Anthony-Ngonde',
   },
 }
 

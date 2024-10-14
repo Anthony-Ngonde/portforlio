@@ -10,12 +10,12 @@ const About = () => {
     <div className='about center'>
       {name && (
         <h1>
-          Hi, I am <span className='about__name'>Anthony Ngonde.</span>
+          Hi, I am <span className='about__name'>{name}</span>
         </h1>
       )}
 
-      {role && <h2 className='about__role'>A Fullstack Developer.</h2>}
-      <p className='about__desc'>I specialize in crafting dynamic, user-friendly web applications by combining elegant front-end interfaces with robust back-end functionality. With experience in React, Node.js, and Flask, I build seamless experiences that focus on performance, scalability, and modern design. My goal is to create intuitive solutions that not only meet user needs but also push the boundaries of technology.</p>
+      {role && <h2 className='about__role'>{role}</h2>}
+      <p className='about__desc'>{description}</p>
 
       <div className='about__contact center'>
         {resume && (
