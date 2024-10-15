@@ -8,7 +8,7 @@ const about = {
   name: 'Anthony Ngonde.',
   role: 'Full-stack Developer',
   description:
-    'I specialize in crafting dynamic, user-friendly web applications by combining elegant front-end interfaces with robust back-end functionality. With experience in ReactJs, Python and Flask, I build seamless experiences that focus on performance, scalability, and modern design. My goal is to create intuitive solutions that not only meet user needs but also push the boundaries of technology.',
+    'I specialize in crafting dynamic, user-friendly web applications by combining elegant front-end interfaces with robust back-end functionality. With experience in ReactJs, Python and Flask, I build seamless experiences that focus on performance, scalability and modern design. My goal is to create intuitive solutions that not only meet user needs but also push the boundaries of technology.',
   resume: 'https://drive.google.com/file/d/1vhYBD5-bP0Lwu2WWv5Ak8kNdZAGjiaoM/view?usp=drive_link',
   social: {
     linkedin: 'https://www.linkedin.com/in/anthony-ngonde-a06442290/',
