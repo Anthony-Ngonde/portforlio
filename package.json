@@ -2,7 +2,7 @@
   "name": "cleanfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://rjshkhr.github.io/cleanfolio",
+  "homepage": "https://cleanfolio.vercel.app",
   "dependencies": {
     "@babel/core": "^7.16.0",
     "@babel/preset-env": "^7.16.0",
