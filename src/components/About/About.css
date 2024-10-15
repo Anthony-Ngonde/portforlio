@@ -27,7 +27,22 @@
 
 .about .btn--outline {
   margin-right: 1em;
+  text-transform: uppercase; 
 }
+
+.about__image-container {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.about__image {
+  width: 200px;  
+  height: 200px; 
+  border-radius: 50%; 
+  border: black;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
 
 @media (max-width: 600px) {
   .app .about {

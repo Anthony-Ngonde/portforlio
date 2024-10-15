@@ -1,3 +1,12 @@
 .contact {
   flex-direction: column;
 }
+
+.email {
+  font-weight: bold; 
+  color: #f0f0f0; 
+}
+
+.btn.btn--outline {
+  text-transform: uppercase;
+}

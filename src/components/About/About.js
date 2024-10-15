@@ -1,6 +1,7 @@
 import GitHubIcon from '@material-ui/icons/GitHub'
 import LinkedInIcon from '@material-ui/icons/LinkedIn'
 import { about } from '../../portfolio'
+import profileImage from '../../assets/profile.png';
 import './About.css'
 
 const About = () => {
@@ -8,6 +9,10 @@ const About = () => {
 
   return (
     <div className='about center'>
+      <div className="about__image-container">
+        <img src={profileImage} alt="Profile" className="about__image" />
+      </div>
+
       {name && (
         <h1>
           Hi, I am <span className='about__name'>{name}</span>

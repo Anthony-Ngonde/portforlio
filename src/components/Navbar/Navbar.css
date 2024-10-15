@@ -14,6 +14,22 @@
   margin-top: 0.4em;
 }
 
+.nav__list-item a {
+  text-transform: capitalize;
+}
+
+.nav__image {
+  margin-left: 20px; 
+  display: flex;
+  align-items: center; 
+}
+
+.nav__image img {
+  width: 50px; 
+  height: 50px; 
+  border-radius: 50%; 
+}
+
 @media (max-width: 600px) {
   .nav__list {
     display: none;
@@ -36,4 +52,6 @@
     z-index: 2;
     margin-left: 0.8em;
   }
+
+
 }
