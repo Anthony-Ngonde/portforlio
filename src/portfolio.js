@@ -49,7 +49,12 @@ const skills = [
   'ReactJs',
   'Git',
   'Python',
-  'Flask'
+  'Flask',
+  'Heroku',
+  'Vercel',
+  'Docker',
+  'Firebase',
+  'AWS'
 ]
 
 const contact = {

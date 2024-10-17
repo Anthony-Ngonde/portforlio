@@ -24,7 +24,7 @@ const About = () => {
 
       <div className='about__contact center'>
         {resume && (
-          <a href='https://drive.google.com/file/d/1vhYBD5-bP0Lwu2WWv5Ak8kNdZAGjiaoM/view?usp=drive_link' target='_blank' rel="noreferrer">
+          <a href='https://drive.google.com/file/d/1YAevU3kzqPz0M8u9bfBtxe4voaeDWC7V/view?usp=drive_link' target='_blank' rel="noreferrer">
             <span type='button' className='btn btn--outline'>
               Resume
             </span>
