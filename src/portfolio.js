@@ -20,11 +20,11 @@ const projects = [
 
 
   {
-    name: 'Anime Application',
-    description: `Built and deployed a React-based web application with API integration for fetching anime data. Collaborated with a team to ensure responsive design and smooth performance across platforms.`,
-    stack: ['React', 'JavaScript', 'API'],
-    sourceCode: 'https://github.com/Anthony-Ngonde/anime-app',
-    livePreview: 'https://anime-app-plum.vercel.app/',
+    name: 'Teeflex Fitness(Gym)',
+    description: `Created and hosted the Teeflex Fitness website, a responsive platform showcasing fitness programs, membership plans, trainer profiles and a contact form. Designed for seamless navigation and optimized for performance.`,
+    stack: ['React.js', 'CSS', 'JavaScript'],
+    sourceCode: 'https://github.com/Anthony-Ngonde/Teeflex-Website.git', 
+    livePreview: 'https://www.teeflexfitness.com/',
   },
   {
     name: 'Ecommerce Website',
@@ -34,11 +34,11 @@ const projects = [
     livePreview: 'https://opticart-frontend.vercel.app/',
   },
   {
-    name: 'Gym Website',
-    description: `Developed a fully responsive gym website aimed at promoting fitness services and workout programs. Implemented features such as a class schedule, membership plans, and a contact form ensuring smooth navigation and an engaging user experience.`,
-    stack: ['HTML', 'CSS', 'JavaScript'],
-    sourceCode: 'https://github.com/Anthony-Ngonde/Phase-1-Project', 
-    livePreview: 'https://anthony-ngonde.github.io/Phase-1-Project/',
+    name: 'Anime Application',
+    description: `Built and deployed a React-based web application with API integration for fetching anime data. Collaborated with a team to ensure responsive design and smooth performance across platforms.`,
+    stack: ['React', 'JavaScript', 'API'],
+    sourceCode: 'https://github.com/Anthony-Ngonde/anime-app',
+    livePreview: 'https://anime-app-plum.vercel.app/'
   },
 ]
 
@@ -50,10 +50,8 @@ const skills = [
   'Git',
   'Python',
   'Flask',
-  'Heroku',
+  'Node.js',
   'Vercel',
-  'Docker',
-  'Firebase',
   'AWS'
 ]
 
